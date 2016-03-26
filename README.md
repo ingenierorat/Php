@@ -1,2 +1,2 @@
 # Php
-Código de practica hecho en dicho lenguaje
+Encontraran una gran variedad de contenido en PHP para que puedan llevar sus practica a la realidad
